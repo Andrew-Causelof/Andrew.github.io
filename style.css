@@ -12,7 +12,7 @@ body {
 
    p {
     /* margin-top: 0.75em; Отступ сверху */
-    margin-bottom: 0,75em; /* Отступ снизу */
+   /* margin-bottom: 0,75em; /* Отступ снизу */
    }
 
     h1 {
@@ -25,7 +25,7 @@ body {
        font-size: 32px;
        border-bottom: 1px;
        border-bottom-color: gray;
-        margin-bottom: 8em; /* Отступ снизу */
+      /*  margin-bottom: 8em;  Отступ снизу */
         font-weight: 400; /* Вес шрифта 400 */
    }
 
@@ -36,7 +36,7 @@ body {
    }
     
    #header {
-        margin-bottom: 32px; /* Отступ снизу */
+       /* margin-bottom: 32px;  Отступ снизу */
        text-align: center;
    }
 
@@ -45,7 +45,7 @@ body {
    }
  
    #footer {
-       margin-top: 64px;
+      /* margin-top: 64px; */
        text-align: center;
    }
 /* END */
